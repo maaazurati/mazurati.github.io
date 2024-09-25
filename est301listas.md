@@ -1,3 +1,5 @@
+<html>
+<body><pre style="word-wrap: break-word; white-space: pre-wrap; text-align: center;"> 
 ## Avaliação I
 1. Prob de componete ser satisfatório: Sucesso x Fracasso
 p = 0.98 n= 5 P(X=k) k sucessos em n tentativas
@@ -227,4 +229,4 @@ Z = X - µ / σ --> σZ = X - µ --> σ = X - µ / Z
 
 7. 
  
-
+</body></html>
